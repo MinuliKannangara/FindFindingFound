@@ -1,0 +1,97 @@
+.customdiv{
+    height: 50px;
+    padding: 40px;
+    padding-bottom: 5px;
+   }
+.custombtn{
+    color: #33bbff;
+    width: 100px;
+} 
+.customaNav{
+    color: rgb(255, 255, 255) !important;
+} 
+
+.customMainrow{
+  height: 400px;
+  background-image: url("background.jpg");
+  width: 100%;
+}
+.imgP{
+  color: white;
+  max-width: fit-content;
+  
+}
+
+.customrow{
+    height: 200px;
+    background-color:#33bbff ;
+    padding-bottom: 40px;
+    
+}
+.colRegLog{
+  background-color: #33bbff  ;
+  padding: 20px;
+}
+.btnreglog{
+  background-color: #7dd1fc ;
+  border: none;
+  width: 100px;
+}
+
+.customwhatppl{
+  height: 40px;
+   background-color: white;
+  
+}
+
+.customcard{
+  color:#ff9900;
+  text-align: center;
+  width: 13rem;
+  margin: 5px;
+}
+s{
+  color:gray;
+}
+
+.checked {
+  color:#33bbff;
+}
+.customimage{
+  width: 100px;
+  height: 100px;
+}
+.btnBid{
+  background-color:#ff9900;
+  border: none;
+}
+.btnSomething{
+    background-color:#fcad38 ;
+    border: none;
+    width: 200px; 
+    
+    
+}
+.colSomething{
+  background-color:#ff9900  ;
+  padding: 20px;
+}
+
+.customrow2{
+    height: 200px;
+    background-color:#ff9900 ;
+}
+.customfooter{
+    height: 250px;
+    background-color: black;
+}
+.h4{
+    color:#33bbff ;
+}
+.ph6{
+    line-height: 1.6;
+}
+
+.footerCol{
+  background-color: black;
+}
